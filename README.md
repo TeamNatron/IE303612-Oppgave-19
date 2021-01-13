@@ -8,3 +8,5 @@ The project for bachelor students would be to create a table booking system as a
 
 This project involves a lot of creativity, the students need to come up with innovative solutions. The owners of the restaurant have a general vision: an intuitive, simple and clear booking system. The part of the journey is to find out how to do it – which technological options are out there, what
 would users prefer, etc.
+
+TEST AV ESPEN
